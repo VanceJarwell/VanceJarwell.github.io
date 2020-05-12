@@ -1,1 +1,0 @@
-# VanceJarwell.github.io
