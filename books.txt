@@ -1,0 +1,3 @@
+(00015,Medicine,How to Keep Fit,John Hopkins University Press,2014,Howard Watreve,131.45,2)
+(00039,English,Born to Win,Citigap Group Press,2001,Sara Jeffrey,66.35,4)
+(00001,A,B,C,1997,d,1,1)
